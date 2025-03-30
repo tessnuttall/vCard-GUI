@@ -1,7 +1,10 @@
 Assignment 3: Python GUI and Databases
 
+Run the command 'make parser' from the assign3 folder to create the shared library
+Run the GUI from the bin folder by typing 'python3 A3main.py' into the command line
+
 1. Description
-A GUI that displays a list of valid vcf files, and allows the user to edit them or create new ones. The user can also view two database queries.
+A GUI that displays a list of valid vcf files, and allows the user to edit them or create new ones, and adds to/updates a database as changes are made. The user can also view two database queries.
 
 2. Checklist
 
